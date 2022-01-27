@@ -1,16 +1,15 @@
 ### Hi there 👋
+I am <b> Siele Emmanuel</b>, Android Developer trying to be better in building android apps
 
-<!--
-**kimsiele/kimsiele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
-Here are some ideas to get you started:
+<!--🌱 I’m currently learning unit/UI Testing android 
+- 💬 Ask me about android-->
+### Github stats
+[![Siele Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsiele&show_icons=true&theme=merko&line_height=20)](https://github.com/kimsiele/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsiele&layout=compact&theme=merko)](https://github.com/kimsiele/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :handshake: Find me via
+
+<a href="https://www.linkedin.com/in/siele-emmanuel-99b566171/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>   <a href="https://twitter.com/SieleKim/">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+
+
