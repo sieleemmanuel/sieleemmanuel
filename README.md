@@ -6,7 +6,7 @@ I am <b> Siele Emmanuel</b>, Android Developer trying to be better in building a
 <!--🌱 I’m currently learning unit/UI Testing android 
 - 💬 Ask me about android-->
 ### Github stats
-[![Siele Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsiele&show_icons=true&theme=merko&line_height=20)](https://github.com/kimsiele/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsiele&layout=compact&theme=merko)](https://github.com/kimsiele/github-readme-stats)
+[![Siele Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieleemmanuel&show_icons=true&theme=merko&line_height=20)](https://github.com/sieleemmanuel/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieleemmanuel&layout=compact&theme=merko)](https://github.com/sieleemmanuel/github-readme-stats)
 
 ### :handshake: Find me via
 
