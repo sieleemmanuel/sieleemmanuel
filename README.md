@@ -7,10 +7,10 @@ I am <b> Siele Emmanuel</b>, Android Developer trying to be better in building a
 <!--🌱 I’m currently learning unit/UI Testing android 
 - 💬 Ask me about android-->
 ### Github stats
-[![Siele Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieleemmanuel&show_icons=true&theme=merko&line_height=20)](https://github.com/sieleemmanuel/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieleemmanuel&layout=compact&theme=merko)](https://github.com/sieleemmanuel/github-readme-stats)
+[![Siele Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieleemmanuel&count_private=true&show_icons=true&theme=merko&line_height=20)](https://github.com/sieleemmanuel/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieleemmanuel&layout=compact&theme=merko)](https://github.com/sieleemmanuel/github-readme-stats)
 
 ### :handshake: Find me via
 
-<a href="https://www.linkedin.com/in/siele-emmanuel-99b566171/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>   <a href="https://twitter.com/SieleKim/">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/siele-emmanuel/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>   <a href="https://twitter.com/SieleKim/">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 
