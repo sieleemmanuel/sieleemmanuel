@@ -1,5 +1,5 @@
 ### Hello there 👋, welcome to my profile :handshake:
-I am <b> Siele Emmanuel</b>, Android Developer trying out android things.(Looking for opportunities)
+I am <b> Siele Emmanuel</b>, Android Developer trying out android things.
 
 ### :handshake: Find me via
 
