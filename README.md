@@ -2,13 +2,13 @@
 I am <b> Siele Emmanuel</b>, a passionate Android Developer 📱🤖 with a love for creating sleek and user-friendly mobile applications. 🚀.
 
 ### 🛠️ What I Bring to the Table:
-- Proficiency in Java and Kotlin for Android app development 🧩
+- Proficiency in Kotlin for Android app development 🧩
 - Experience with Android Studio and the Android SDK 🛠️
 - Passion for clean, maintainable code and UI/UX design 🎨
-### 💡 Desired result:
+<!--### 💡 Desired result:
 - Contribute to open-source Android projects to give back to the community 🤝
 - Collaborate with experienced developers to expand my knowledge 🚀
-- Transform innovative app ideas into reality 🌠
+- Transform innovative app ideas into reality 🌠 -->
 
 ### :handshake: Let's connect
  Feel free to reach out for collaborations, advice, or a friendly chat! 💬
