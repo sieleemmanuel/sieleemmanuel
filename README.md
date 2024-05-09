@@ -21,7 +21,7 @@ I am <b> Siele Emmanuel</b>, a passionate Android Developer 📱🤖 with a love
 <!--🌱 I’m currently learning unit/UI Testing android 
 - 💬 Ask me about android-->
 ### Github stats
-[![Siele Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieleemmanuel&count_private=false&show_icons=true&theme=merko&line_height=20)](https://github.com/sieleemmanuel/github-readme-stats) 
+[![Siele Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieleemmanuel&repo=github-readme-stats&count_private=true&show_icons=true&theme=merko&line_height=20)](https://github.com/sieleemmanuel/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieleemmanuel&layout=compact&theme=merko)](https://github.com/sieleemmanuel/github-readme-stats)
 
 Thanks for visiting my GitHub profile! Together, let's build amazing Android experiences. 🙌🏼 <br>
