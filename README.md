@@ -16,7 +16,7 @@ I am <b> Siele Emmanuel</b>, a passionate Android Developer 📱🤖 with a love
 <a href="https://www.linkedin.com/in/siele-emmanuel/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>   <a href="https://twitter.com/SieleKim/">![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)</a> 
 
 #### Check out my apps on playstore
-<a href="https://play.google.com/store/apps/dev?id=7022174429412939076/">![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
+<a href="https://play.google.com/store/apps/dev?id=7022174429412939076">![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
 
 ### Tech Stack
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
