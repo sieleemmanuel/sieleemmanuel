@@ -1,11 +1,11 @@
 ### Hello there 👋, welcome to my profile :handshake:
-I am <b> Siele Emmanuel</b>, a passionate Android Developer 📱🤖 with a love for creating sleek and user-friendly mobile applications. 🚀.
+I am <b> Siele Emmanuel</b>, Seasoned Android Engineer 📱🤖 with a love for creating sleek and user-friendly mobile applications. 🚀.
 
-### 🛠️ What I Bring to the Table:
+<!--### 🛠️ What I Bring to the Table:
 - Proficiency in Kotlin for Android app development 🧩
 - Experience with Android Studio and the Android SDK 🛠️
 - Passion for clean, maintainable code and UI/UX design 🎨
-<!--### 💡 Desired result:
+### 💡 Desired result:
 - Contribute to open-source Android projects to give back to the community 🤝
 - Collaborate with experienced developers to expand my knowledge 🚀
 - Transform innovative app ideas into reality 🌠 -->
